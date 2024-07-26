@@ -1,0 +1,23 @@
+.lista{
+  background-color: var(--color0);
+  width: 400px;
+
+}
+
+.lista__item{
+  padding: 12px;
+  border-bottom: var(--border) var(--negro);
+  
+}
+
+.lista__item:last-of-type{
+  border: none;
+}
+
+.lista__texto{
+
+}
+
+.lista__icono{
+
+}
